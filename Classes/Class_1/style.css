@@ -1,1 +1,19 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+*{
+  margin:0;
+  padding:0;
+}
+
+
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Pushster', cursive;
+}
+
+nav{
+    background-color:rgb(240, 59, 95);
+    font-size: 23px;
+}

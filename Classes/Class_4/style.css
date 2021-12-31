@@ -15,6 +15,13 @@ nav{
     font-size: 23px;
 }
 
-a img{
+.a img{
+  /* Image */
+  height: 10rem;
+  width: 10rem;
+  border: 3px solid rgb(240, 59, 95);
   border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

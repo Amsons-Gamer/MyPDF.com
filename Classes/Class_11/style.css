@@ -14,3 +14,7 @@ nav{
     background-color:rgb(240, 59, 95);
     font-size: 23px;
 }
+
+a img{
+  border-radius: 50%;
+}

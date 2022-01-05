@@ -27,7 +27,7 @@ a{
 
 p{
     /* Text */
-    font-size: xx-large;
+    font-size: 2.5rem;
     font-family: 'Imperial Script', sans-serif ;
     background-image: linear-gradient(to left bottom, #fbb040, #ef4136);
     background-clip: text;

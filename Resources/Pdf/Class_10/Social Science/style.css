@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Pushster', cursive;
+}
+
+nav{
+    
+    width: fit-content;
+    background-image:  linear-gradient(to left bottom, #fbb040, #ef4136);
+    -webkit-background-clip: text;
+    background-clip: text;    /* Compatiblity */
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+p{
+    /* Text */
+    font-size: 2.5rem;
+    font-family: 'Imperial Script', sans-serif ;
+    background-image: linear-gradient(to left bottom, #fbb040, #ef4136);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
